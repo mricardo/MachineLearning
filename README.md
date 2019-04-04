@@ -1,2 +1,2 @@
-# MachineLearning
-Machine Learning Course by Andrew Ng - Octave Solutions
+# Machine Learning
+Machine Learning Coursera by Andrew Ng - Octave Solutions
